@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartspacebuys-spec.github.io/smart-space-buys-planner/sitemap.xml
