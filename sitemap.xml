@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://smartspacebuys-spec.github.io/smart-space-buys-planner/</loc>
-    <lastmod>2026-09-29</lastmod>
-  </url>
-  <url>
-    <loc>https://smartspacebuys-spec.github.io/smart-space-buys-planner/planner.html</loc>
-    <lastmod>2026-09-29</lastmod>
-  </url>
+  <url><loc>https://smartspacebuys.com/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://smartspacebuys.com/planner.html</loc><lastmod>2026-09-29</lastmod></url>
 </urlset>
